@@ -9,6 +9,7 @@ originals.
 | Book | Author | Notes |
 |---|---|---|
 | The Inner Game of Tennis | W. Timothy Gallwey | [inner-game-of-tennis.md](inner-game-of-tennis.md) |
+| Mind Gym: An Athlete's Guide to Inner Excellence | Gary Mack with David Casstevens | [mind-gym.md](mind-gym.md) |
 
 ## Adding a new one
 

@@ -8,5 +8,7 @@ side.
 - [books/](books/) - Notes on books worth reading, one file per book.
   - [The Inner Game of Tennis](books/inner-game-of-tennis.md) - Gallwey's split between
     Self 1, the judgmental narrator, and Self 2, the part of you that actually plays.
+  - [Mind Gym](books/mind-gym.md) - Gary Mack's toolkit for training mental skills, and how
+    it argues with Gallwey in a useful way.
 - [fitness.md](fitness.md) - Training for the demands the sport actually makes: lateral
   movement, deceleration, rotational power, and staying uninjured.
