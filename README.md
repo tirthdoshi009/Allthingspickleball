@@ -14,3 +14,5 @@ side.
   movement, deceleration, rotational power, and staying uninjured.
 - [discomfort.md](discomfort.md) - Being comfortable being uncomfortable: why the challenger
   court is the sharpest tool for it, and how to structure it so it sticks.
+- [pre-point-reset.md](pre-point-reset.md) - A five-second between-point routine for
+  releasing the last rally and starting the next one with a clear target.
