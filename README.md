@@ -10,6 +10,8 @@ side.
     Self 1, the judgmental narrator, and Self 2, the part of you that actually plays.
   - [Mind Gym](books/mind-gym.md) - Gary Mack's toolkit for training mental skills, and how
     it argues with Gallwey in a useful way.
+  - [Pickleball-specific books](books/pickleball-specific-books.md) - A researched shortlist
+    of books written directly for pickleball players.
 - [fitness.md](fitness.md) - Training for the demands the sport actually makes: lateral
   movement, deceleration, rotational power, and staying uninjured.
 - [discomfort.md](discomfort.md) - Being comfortable being uncomfortable: why the challenger

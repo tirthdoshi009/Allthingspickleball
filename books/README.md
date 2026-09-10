@@ -11,6 +11,10 @@ originals.
 | The Inner Game of Tennis | W. Timothy Gallwey | [inner-game-of-tennis.md](inner-game-of-tennis.md) |
 | Mind Gym: An Athlete's Guide to Inner Excellence | Gary Mack with David Casstevens | [mind-gym.md](mind-gym.md) |
 
+## Research notes
+
+- [Pickleball-specific books to investigate](pickleball-specific-books.md) - A shortlist of books written directly for pickleball players.
+
 ## Adding a new one
 
 Create a file named after the book in kebab case, for example `the-art-of-learning.md`, and
