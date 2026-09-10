@@ -12,3 +12,5 @@ side.
     it argues with Gallwey in a useful way.
 - [fitness.md](fitness.md) - Training for the demands the sport actually makes: lateral
   movement, deceleration, rotational power, and staying uninjured.
+- [discomfort.md](discomfort.md) - Being comfortable being uncomfortable: why the challenger
+  court is the sharpest tool for it, and how to structure it so it sticks.
