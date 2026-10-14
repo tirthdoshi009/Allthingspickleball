@@ -5,6 +5,8 @@ side.
 
 ## Contents
 
+- [purpose.md](purpose.md) - A personal purpose for showing up: help someone feel
+  welcome and have a good game, without needing to earn a place on the court.
 - [books/](books/) - Notes on books worth reading, one file per book.
   - [The Inner Game of Tennis](books/inner-game-of-tennis.md) - Gallwey's split between
     Self 1, the judgmental narrator, and Self 2, the part of you that actually plays.
